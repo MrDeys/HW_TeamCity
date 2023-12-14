@@ -1,0 +1,7 @@
+D:\VS projects\TeamCity\TeamCity\bin\Debug\TeamCity.exe.config
+D:\VS projects\TeamCity\TeamCity\bin\Debug\TeamCity.exe
+D:\VS projects\TeamCity\TeamCity\bin\Debug\TeamCity.pdb
+D:\VS projects\TeamCity\TeamCity\obj\Debug\TeamCity.csproj.AssemblyReference.cache
+D:\VS projects\TeamCity\TeamCity\obj\Debug\TeamCity.csproj.CoreCompileInputs.cache
+D:\VS projects\TeamCity\TeamCity\obj\Debug\TeamCity.exe
+D:\VS projects\TeamCity\TeamCity\obj\Debug\TeamCity.pdb
